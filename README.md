@@ -43,6 +43,10 @@ This project is the front-end component of the Class Management System, designed
    npm start
    ```
    - The application will run on `http://localhost:3000`.
+     
+## 🚀 Backend URL
+
+- https://github.com/senumiminodya/Class-Management-System-Backend.git
 
 ## 🚀 Usage
 
